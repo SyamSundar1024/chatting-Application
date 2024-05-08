@@ -12,7 +12,7 @@ This project is a real-time communication application that enables users to seam
 
 ### Clone
 
-- Clone this repo with url 
+- Clone this repo with url `https://github.com/SyamSundar1024/chatting-Application`
 
 ##### Setup
 
